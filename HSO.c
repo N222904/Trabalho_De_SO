@@ -11,7 +11,7 @@
  * Este codigo foi desenvolvido como tarefa de programacao para o trabalho final da disciplina 
  * Sistemas Operacionais na Faculdade de Tecnologia da Unicamp durante o segundo semestre de 2020, 
  * e tem como objetivo exercitar os conceitos de programacao multithread e semaforos visto em aula. 
- * Para compilar: gcc -pthread HSO.c -o arquivo_de_saida
+ * Para compilar: gcc -pthread HSO.c -o arquivo_executavel
  * O programa deve imprimir a molecula H2 S 04 (HHSOOOO) um numero x de vezes, de acordo com input
  * do usuario.
  */
