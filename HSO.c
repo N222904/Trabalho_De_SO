@@ -98,7 +98,7 @@ void *Imprime_molecula() {
 int main (int argc, char* argv[]) { 
 	int k = 0;
 	int j;
-	printf("insira o  numero de repeticoes \n");
+	//printf("insira o  numero de repeticoes \n");
 	scanf("%d", &k);
 	for (j=0;j<k;j++) {
 		Imprime_molecula();
